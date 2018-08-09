@@ -1,0 +1,1 @@
+# Spartaglobal_Graphical_calculator_js
